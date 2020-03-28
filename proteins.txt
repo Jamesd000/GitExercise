@@ -4,5 +4,5 @@ Hemoglobin-alpha Human   HBA_HUMAN  P69905 189
 Hemoglobin-beta  Human   HBB_HUMAN  P68871 180
 PFKM 		 Human   PFKAM_HUMAN P08237    388
 Pfkm 		 Mouse   PFKAM_MOUSE P47857    890
-
+Lysozyme 	 Mouse 	 LYZ1_MOUSE P17897 148
 
